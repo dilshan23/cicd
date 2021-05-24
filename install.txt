@@ -1,6 +1,4 @@
-For Linux try to follow these steps:-
-
-It worked for me.
+For Linux:
 
 sudo vi /etc/default/jenkins
 
