@@ -18,3 +18,7 @@ service jenkins restart ps -ef | grep jenkins
 ###repos
 
 /var/lib/jenkins/workspace
+
+
+##restart
+sudo systemctl restart jenkins
